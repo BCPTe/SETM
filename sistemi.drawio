@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-03T15:46:59.664Z" agent="5.0 (Windows)" etag="bevWSCwU0ZUzmYd45nMQ" version="19.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-03T15:55:00.162Z" agent="5.0 (Windows)" etag="i_aRiTC7QzYL3Gu6zYKL" version="19.0.0" type="github">
   <diagram id="KbQLy3OMnYTvDfTse-Bw" name="Page-1">
-    <mxGraphModel dx="1482" dy="2457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
+    <mxGraphModel dx="4693" dy="4341" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -23,7 +23,7 @@
         <mxCell id="S8-AEcQRGxQJLUGlmGjb-92" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="V_KuhvTImbU-2_eGopWf-3" target="V_KuhvTImbU-2_eGopWf-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HUOxFKLSnK8g2RsHbuWe-12" style="edgeStyle=none;rounded=0;jumpStyle=none;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=9;startFill=1;endArrow=block;endFill=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeWidth=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="V_KuhvTImbU-2_eGopWf-3" target="HUOxFKLSnK8g2RsHbuWe-11">
+        <mxCell id="HUOxFKLSnK8g2RsHbuWe-12" style="edgeStyle=none;rounded=0;jumpStyle=none;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=9;startFill=1;endArrow=block;endFill=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeWidth=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" parent="1" source="V_KuhvTImbU-2_eGopWf-3" target="HUOxFKLSnK8g2RsHbuWe-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="ELETTRONICI" lucidchartObjectId="GREljfqATe~l" id="V_KuhvTImbU-2_eGopWf-3">
@@ -80,7 +80,7 @@
         <mxCell id="S8-AEcQRGxQJLUGlmGjb-33" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=9;endArrow=block;endFill=1;strokeColor=#000000;" parent="1" source="V_KuhvTImbU-2_eGopWf-3" target="V_KuhvTImbU-2_eGopWf-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HUOxFKLSnK8g2RsHbuWe-13" value="formati da" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;" vertex="1" connectable="0" parent="S8-AEcQRGxQJLUGlmGjb-33">
+        <mxCell id="HUOxFKLSnK8g2RsHbuWe-13" value="formati da" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;" parent="S8-AEcQRGxQJLUGlmGjb-33" vertex="1" connectable="0">
           <mxGeometry x="-0.2134" y="1" relative="1" as="geometry">
             <mxPoint x="7" as="offset" />
           </mxGeometry>
@@ -516,7 +516,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HUOxFKLSnK8g2RsHbuWe-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="63lxZahk68hWmBlvhvrG-12" target="63lxZahk68hWmBlvhvrG-15">
+        <mxCell id="HUOxFKLSnK8g2RsHbuWe-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="63lxZahk68hWmBlvhvrG-12" target="63lxZahk68hWmBlvhvrG-15" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1820" y="-1120" />
@@ -649,7 +649,7 @@
         <mxCell id="63lxZahk68hWmBlvhvrG-64" value="$$DR|_{dB} = 20 \, log_{10} \frac{S}{\delta v}$$" style="text;fontSize=9;fontColor=#000000;imageAspect=1;whiteSpace=wrap;html=1;spacing=0;verticalAlign=middle;align=center;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="633.03" y="-1060.63" width="120" height="20.63" as="geometry" />
         </mxCell>
-        <mxCell id="HUOxFKLSnK8g2RsHbuWe-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="63lxZahk68hWmBlvhvrG-15" target="63lxZahk68hWmBlvhvrG-54">
+        <mxCell id="HUOxFKLSnK8g2RsHbuWe-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="63lxZahk68hWmBlvhvrG-15" target="63lxZahk68hWmBlvhvrG-54" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2060" y="-1060" />
@@ -681,10 +681,10 @@
         <mxCell id="bP6iZzroc04yHyCrc2Ij-10" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://raw.githubusercontent.com/BCPTe/SETM/main/images/01/linea_di_ritardo.png;" parent="1" vertex="1">
           <mxGeometry x="2090" y="-960" width="70" height="27.25" as="geometry" />
         </mxCell>
-        <mxCell id="HUOxFKLSnK8g2RsHbuWe-1" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://raw.githubusercontent.com/BCPTe/SETM/main/images/01/filtri.png;" vertex="1" parent="1">
+        <mxCell id="HUOxFKLSnK8g2RsHbuWe-1" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://raw.githubusercontent.com/BCPTe/SETM/main/images/01/filtri.png;" parent="1" vertex="1">
           <mxGeometry x="2210" y="-960" width="60" height="115.56" as="geometry" />
         </mxCell>
-        <mxCell id="HUOxFKLSnK8g2RsHbuWe-11" value="&lt;p style=&quot;line-height: 0.9;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;è un circuito elettrico costituito esclusivamente o in larga parte da dispositivi a semiconduttore (elettronici)&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393D;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="HUOxFKLSnK8g2RsHbuWe-11" value="&lt;p style=&quot;line-height: 0.9;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;è un circuito elettrico costituito esclusivamente o in larga parte da dispositivi a semiconduttore (elettronici)&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393D;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="620" y="-1630" width="176.97" height="40" as="geometry" />
         </mxCell>
       </root>
