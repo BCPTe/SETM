@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-04T16:11:09.996Z" agent="5.0 (Windows)" etag="DYiTVmZoA_i6EIwG9Sya" version="19.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-04T16:20:28.661Z" agent="5.0 (Windows)" etag="8DmTO_2FMfECzr7OfqZx" version="19.0.0" type="github">
   <diagram id="Vgr4V98iy7H3mkGHoCvp" name="Pagina-1">
-    <mxGraphModel dx="1043" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
+    <mxGraphModel dx="408" dy="234" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,7 +13,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="240" y="160" />
-              <mxPoint x="480" y="160" />
+              <mxPoint x="455" y="160" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -29,7 +29,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="240" y="160" />
-              <mxPoint x="840" y="160" />
+              <mxPoint x="790" y="160" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -42,22 +42,22 @@
         <mxCell id="Vg_-dY5ANIHzuDw8YEnt-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;fontColor=#000000;endArrow=none;endFill=0;" edge="1" parent="1" source="Vg_-dY5ANIHzuDw8YEnt-5" target="Vg_-dY5ANIHzuDw8YEnt-16">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="480" y="235" />
-              <mxPoint x="370" y="235" />
+              <mxPoint x="455" y="235" />
+              <mxPoint x="345" y="235" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Vg_-dY5ANIHzuDw8YEnt-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;fontColor=#000000;endArrow=none;endFill=0;" edge="1" parent="1" source="Vg_-dY5ANIHzuDw8YEnt-5" target="Vg_-dY5ANIHzuDw8YEnt-17">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="480" y="235" />
-              <mxPoint x="590" y="235" />
-              <mxPoint x="590" y="255" />
+              <mxPoint x="455" y="235" />
+              <mxPoint x="565" y="235" />
+              <mxPoint x="565" y="255" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Vg_-dY5ANIHzuDw8YEnt-5" value="A GIUNZIONE" style="whiteSpace=wrap;html=1;fontColor=#000000;strokeColor=#2D7600;fillColor=#66ff66;" vertex="1" parent="1">
-          <mxGeometry x="430" y="185" width="100" height="30" as="geometry" />
+          <mxGeometry x="405" y="185" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Vg_-dY5ANIHzuDw8YEnt-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Vg_-dY5ANIHzuDw8YEnt-9" target="Vg_-dY5ANIHzuDw8YEnt-13">
           <mxGeometry relative="1" as="geometry">
@@ -80,21 +80,21 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Vg_-dY5ANIHzuDw8YEnt-16" value="$$v_D &amp;gt; 0$$" style="whiteSpace=wrap;html=1;fontSize=11;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
-          <mxGeometry x="340" y="255" width="60" height="20" as="geometry" />
+          <mxGeometry x="315" y="255" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Vg_-dY5ANIHzuDw8YEnt-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontColor=#000000;endArrow=block;endFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Vg_-dY5ANIHzuDw8YEnt-17" target="Vg_-dY5ANIHzuDw8YEnt-22">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="600" y="305" as="targetPoint" />
+            <mxPoint x="575" y="305" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Vg_-dY5ANIHzuDw8YEnt-17" value="$$v_D &amp;lt; 0$$" style="whiteSpace=wrap;html=1;fontSize=11;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
-          <mxGeometry x="560" y="255" width="60" height="20" as="geometry" />
+          <mxGeometry x="535" y="255" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Vg_-dY5ANIHzuDw8YEnt-21" value="POLARIZZAZIONE DIRETTA&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;la corrente crece&amp;nbsp; rapidamente con \(v_D\).&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;La curva è quasi verticale per \( v_D = V_\gamma \cong 0.6V-0.7V \).&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;---&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;\(V_\gamma\) → tensione di soglia&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=11;fontColor=#000000;strokeColor=#2D7600;fillColor=#66ff66;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="275" y="305" width="190" height="90" as="geometry" />
+          <mxGeometry x="250" y="305" width="190" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Vg_-dY5ANIHzuDw8YEnt-22" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;POLARIZZAZIONE INVERSA&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;la corrente satura ad un calore negativo molto piccolo (pA-fA) in modulo (\(-I_S \))&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=11;fontColor=#000000;strokeColor=#2D7600;fillColor=#66ff66;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="510.00000000000006" y="305" width="160" height="70" as="geometry" />
+          <mxGeometry x="480" y="305" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Vg_-dY5ANIHzuDw8YEnt-23" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;fontSize=11;fontColor=#000000;strokeColor=#2D7600;fillColor=#66ff66;html=1;image=https://raw.githubusercontent.com/BCPTe/SETM/main/images/03/diodo_simbolo.png;imageBorder=none;" vertex="1" parent="1">
           <mxGeometry x="561" y="13.48" width="63.63" height="83.05" as="geometry" />
@@ -110,14 +110,16 @@
             <mxPoint y="40" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Vg_-dY5ANIHzuDw8YEnt-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;fontColor=#000000;endArrow=block;endFill=1;" edge="1" parent="1" source="Vg_-dY5ANIHzuDw8YEnt-41" target="Vg_-dY5ANIHzuDw8YEnt-43">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Vg_-dY5ANIHzuDw8YEnt-45" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;fontColor=#000000;endArrow=block;endFill=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="Vg_-dY5ANIHzuDw8YEnt-41" target="Vg_-dY5ANIHzuDw8YEnt-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="910" y="130" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Vg_-dY5ANIHzuDw8YEnt-41" value="&lt;div&gt;BREAKDOWN&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=11;fontColor=#000000;strokeColor=#2D7600;fillColor=#66ff66;" vertex="1" parent="1">
-          <mxGeometry x="790" y="185" width="100" height="30" as="geometry" />
+          <mxGeometry x="740" y="185" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Vg_-dY5ANIHzuDw8YEnt-43" value="applicando \(v_D\) molto negativa&lt;br&gt;(\( v_D \le V_{BR} &amp;lt; 0 \)) il diodo conduce in direzione inversa (fenomeno della rottura o breakdown). La corrente cresce in modo verticale" style="fontSize=11;fontColor=#333333;strokeColor=#666666;fillColor=#f5f5f5;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="255" width="220" height="80" as="geometry" />
+          <mxGeometry x="905" y="80" width="220" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Vg_-dY5ANIHzuDw8YEnt-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;fontColor=#000000;endArrow=block;endFill=1;" edge="1" parent="1" source="Vg_-dY5ANIHzuDw8YEnt-47" target="Vg_-dY5ANIHzuDw8YEnt-48">
           <mxGeometry relative="1" as="geometry">
@@ -191,8 +193,16 @@
         <mxCell id="Vg_-dY5ANIHzuDw8YEnt-122" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;fontColor=#000000;endArrow=block;endFill=1;" edge="1" parent="1" source="Vg_-dY5ANIHzuDw8YEnt-49" target="Vg_-dY5ANIHzuDw8YEnt-121">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Vg_-dY5ANIHzuDw8YEnt-127" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=11;fontColor=#000000;endArrow=block;endFill=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Vg_-dY5ANIHzuDw8YEnt-49" target="Vg_-dY5ANIHzuDw8YEnt-126">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Vg_-dY5ANIHzuDw8YEnt-127" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=11;fontColor=#000000;endArrow=block;endFill=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="Vg_-dY5ANIHzuDw8YEnt-49" target="Vg_-dY5ANIHzuDw8YEnt-126">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="880" y="534" />
+              <mxPoint x="880" y="500" />
+              <mxPoint x="810" y="500" />
+              <mxPoint x="810" y="390" />
+              <mxPoint x="855" y="390" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Vg_-dY5ANIHzuDw8YEnt-49" value="&lt;div&gt;PICCOLO SEGNALE&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=11;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
           <mxGeometry x="810" y="534" width="120" height="40" as="geometry" />
@@ -370,11 +380,26 @@
         <mxCell id="Vg_-dY5ANIHzuDw8YEnt-125" value="&lt;div align=&quot;left&quot;&gt;si determina il punto di lavoro \(Q\):&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- spegniamo i generatori variabili nel tempo&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- condensatori → CA / induttori → CC&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shadow=0;labelBorderColor=none;fontSize=8;fontColor=#000000;strokeColor=#333333;strokeWidth=0.8;fillColor=#66ff66;align=left;" vertex="1" parent="1">
           <mxGeometry x="630" y="690" width="150" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="Vg_-dY5ANIHzuDw8YEnt-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=9;fontColor=#000000;endArrow=block;endFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Vg_-dY5ANIHzuDw8YEnt-126" target="Vg_-dY5ANIHzuDw8YEnt-128">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Vg_-dY5ANIHzuDw8YEnt-126" value="quando le grandezze d&#39;interesse variano di poco nell&#39;intorno di un punto \(Q\) (detto &lt;b style=&quot;font-size: 11px;&quot;&gt;punto di lavoro&lt;/b&gt;), è possibile linearizzarne la caratteristica in quel punto (approssimazione con la tangente di \(Q\))" style="whiteSpace=wrap;html=1;shadow=0;labelBorderColor=none;fontSize=11;strokeColor=#36393d;strokeWidth=0.8;fillColor=#eeeeee;" vertex="1" parent="1">
-          <mxGeometry x="835" y="375" width="210" height="69" as="geometry" />
+          <mxGeometry x="750" y="270" width="210" height="69" as="geometry" />
         </mxCell>
         <mxCell id="Vg_-dY5ANIHzuDw8YEnt-128" value="&lt;div align=&quot;left&quot;&gt;si scompongono le grandezze elettriche in:&lt;/div&gt;&lt;div style=&quot;font-size: 9px;&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;- componenti nel punto di lavoro \(Q\), dette &lt;b&gt;di polarizzazione&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;- variazioni, dette &lt;b&gt;componenti di piccolo segnale&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shadow=0;labelBorderColor=none;fontSize=11;fontColor=#000000;strokeColor=#333333;strokeWidth=0.8;fillColor=#66ff66;align=left;" vertex="1" parent="1">
-          <mxGeometry x="940" y="474" width="220" height="70" as="geometry" />
+          <mxGeometry x="890" y="350" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Vg_-dY5ANIHzuDw8YEnt-134" value="$$i_D \quad = \quad I_D \quad + \quad i_d$$" style="text;whiteSpace=wrap;html=1;fontSize=11;fontColor=#000000;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="860" y="440" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Vg_-dY5ANIHzuDw8YEnt-136" value="corrente totale" style="text;whiteSpace=wrap;html=1;fontSize=7;fontColor=#000000;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="855" y="460" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vg_-dY5ANIHzuDw8YEnt-137" value="valore in \(Q\)" style="text;whiteSpace=wrap;html=1;fontSize=7;fontColor=#000000;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="915" y="460" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vg_-dY5ANIHzuDw8YEnt-139" value="variazione rispetto a \(Q\)" style="text;whiteSpace=wrap;html=1;fontSize=7;fontColor=#000000;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="970" y="460" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
