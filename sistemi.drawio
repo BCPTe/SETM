@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-04T09:50:53.464Z" agent="5.0 (Windows)" etag="jyJKTrfrCSCbqfScj4UP" version="19.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-04T10:02:42.378Z" agent="5.0 (Windows)" etag="kwBUTrGK5mrC4HQy2uY7" version="19.0.0" type="github">
   <diagram id="KbQLy3OMnYTvDfTse-Bw" name="Page-1">
-    <mxGraphModel dx="469" dy="1922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
+    <mxGraphModel dx="249" dy="1796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -156,21 +156,23 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="790" y="-1190" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="790" y="-1195" />
+              <mxPoint x="790" y="-1185" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pplWBhZg-RcZurgzW7AX-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="V_KuhvTImbU-2_eGopWf-22" target="V_KuhvTImbU-2_eGopWf-54">
+        <mxCell id="pplWBhZg-RcZurgzW7AX-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="V_KuhvTImbU-2_eGopWf-22" target="pplWBhZg-RcZurgzW7AX-21">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="820" y="-1150.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="790" y="-1150" />
+              <mxPoint x="790" y="-1140" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="pplWBhZg-RcZurgzW7AX-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="V_KuhvTImbU-2_eGopWf-22" target="V_KuhvTImbU-2_eGopWf-55">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="790" y="-1101" />
+              <mxPoint x="790" y="-1090" />
+              <mxPoint x="820" y="-1090" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -286,19 +288,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <UserObject label="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 9px; line-height: 1.25; margin-top: -2px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px; color: rgb(58, 65, 74);&quot;&gt;SEMPRE LIMITATA&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(58, 65, 74);&quot;&gt;per i segnali fisici&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="OPFlVcPKJhmu" id="V_KuhvTImbU-2_eGopWf-53">
+        <UserObject label="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 12px; line-height: 1.25; margin-top: -2px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;color: rgb(58, 65, 74);&quot;&gt;SEMPRE LIMITATA&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/span&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;color: rgb(58, 65, 74);&quot;&gt;per i segnali fisici&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="OPFlVcPKJhmu" id="V_KuhvTImbU-2_eGopWf-53">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=11;spacing=3.8;strokeColor=#36393d;strokeOpacity=100;rounded=0;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;fillColor=#ffcccc;container=0;" parent="1" vertex="1">
-            <mxGeometry x="820" y="-1210" width="120" height="30" as="geometry" />
+            <mxGeometry x="820" y="-1200" width="120" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 9px; line-height: 1.25; margin-top: -2px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px; color: rgb(58, 65, 74);&quot;&gt;STRETTA&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/span&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;&lt;span style=&quot;color: rgb(58, 65, 74);&quot;&gt;per i segnali che variano lentamente/in modo regolare&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="6TFlstYmunlc" id="V_KuhvTImbU-2_eGopWf-54">
+        <UserObject label="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 9px; line-height: 1.25; margin-top: -2px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px; color: rgb(58, 65, 74);&quot;&gt;LARGA&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/span&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;color: rgb(58, 65, 74); font-size: 9px; line-height: 1;&quot;&gt;per i segnali che variano rapidamente/in modo irregolare&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="8TFl-1Wmz8BK" id="V_KuhvTImbU-2_eGopWf-55">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=11;spacing=3.8;strokeColor=#36393d;strokeOpacity=100;rounded=0;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;fillColor=#ffcccc;container=0;" parent="1" vertex="1">
-            <mxGeometry x="820" y="-1171" width="140" height="41" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 9px; line-height: 1.25; margin-top: -2px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px; color: rgb(58, 65, 74);&quot;&gt;LARGA&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(58, 65, 74);&quot;&gt;per i segnali che variano rapidamente/in modo irregolare&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="8TFl-1Wmz8BK" id="V_KuhvTImbU-2_eGopWf-55">
-          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=11;spacing=3.8;strokeColor=#36393d;strokeOpacity=100;rounded=0;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;fillColor=#ffcccc;container=0;" parent="1" vertex="1">
-            <mxGeometry x="820" y="-1122" width="140" height="42" as="geometry" />
+            <mxGeometry x="820" y="-1110" width="140" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="S8-AEcQRGxQJLUGlmGjb-118" style="edgeStyle=none;rounded=0;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;endArrow=block;endFill=1;endSize=6;strokeWidth=1;" parent="1" source="S8-AEcQRGxQJLUGlmGjb-42" target="S8-AEcQRGxQJLUGlmGjb-114" edge="1">
@@ -718,7 +715,7 @@
           <mxGeometry x="540" y="-950" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="96M0zjr4_rp7GjVEyhmA-63" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=10;html=1;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry x="830" y="-1050" width="250" height="200" as="geometry" />
+          <mxGeometry x="830" y="-1041.5" width="250" height="200" as="geometry" />
         </mxCell>
         <mxCell id="96M0zjr4_rp7GjVEyhmA-64" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=10;html=1;" parent="96M0zjr4_rp7GjVEyhmA-63" vertex="1">
           <mxGeometry width="250" height="20" as="geometry" />
@@ -800,6 +797,11 @@
             <mxPoint y="-1614" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <UserObject label="&lt;font style=&quot;font-size: 11px;&quot;&gt;STRETTA&lt;br&gt;&lt;font style=&quot;font-size: 9px; line-height: 1;&quot;&gt;per i segnali che variano lentamente/in modo regolare&lt;/font&gt;&lt;/font&gt;" lucidchartObjectId="OPFlVcPKJhmu" id="pplWBhZg-RcZurgzW7AX-21">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=11;spacing=3.8;strokeColor=#36393d;strokeOpacity=100;rounded=0;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;fillColor=#ffcccc;container=0;" vertex="1" parent="1">
+            <mxGeometry x="820" y="-1160" width="140" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
