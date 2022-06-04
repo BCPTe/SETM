@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-04T09:23:17.110Z" agent="5.0 (Windows)" etag="pVUlecAPneACImAfqNs4" version="19.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-04T09:34:08.816Z" agent="5.0 (Windows)" etag="0ZUJunLjnQ0ctLgZMl05" version="19.0.0" type="github">
   <diagram id="KbQLy3OMnYTvDfTse-Bw" name="Page-1">
-    <mxGraphModel dx="3520" dy="3667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
+    <mxGraphModel dx="587" dy="1989" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -769,6 +769,14 @@
         <mxCell id="96M0zjr4_rp7GjVEyhmA-79" value="$$A_{p,dB} = 10 \, log_{10} \Bigg| \frac{P_1}{P_2} \Bigg|$$" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=10;startSize=0;" parent="96M0zjr4_rp7GjVEyhmA-76" vertex="1">
           <mxGeometry x="110" width="140" height="61" as="geometry">
             <mxRectangle width="140" height="61" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pplWBhZg-RcZurgzW7AX-9" value="&lt;b&gt;&lt;span class=&quot;mw-redirect&quot;&gt;©&lt;/span&gt;&lt;/b&gt; BCPTe" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
+          <mxGeometry x="40" y="-1654" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pplWBhZg-RcZurgzW7AX-10" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;" edge="1" target="pplWBhZg-RcZurgzW7AX-9" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint y="-1614" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
