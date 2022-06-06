@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-06T11:11:06.451Z" agent="5.0 (Windows)" etag="YhfTdlF00GfD5J9OrsR3" version="19.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-06T11:13:20.236Z" agent="5.0 (Windows)" etag="LgdE0Qc2t3rNdP-O6b6H" version="19.0.0" type="github">
   <diagram id="KbQLy3OMnYTvDfTse-Bw" name="Page-1">
-    <mxGraphModel dx="1656" dy="2602" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
+    <mxGraphModel dx="327" dy="1841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -56,8 +56,8 @@
         <mxCell id="S8-AEcQRGxQJLUGlmGjb-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;endArrow=none;endFill=0;" parent="1" source="V_KuhvTImbU-2_eGopWf-11" target="V_KuhvTImbU-2_eGopWf-15" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="793.03" y="-1530.47" />
-              <mxPoint x="893.03" y="-1530.47" />
+              <mxPoint x="795" y="-1530" />
+              <mxPoint x="895" y="-1530" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -67,14 +67,14 @@
         <mxCell id="S8-AEcQRGxQJLUGlmGjb-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;endArrow=none;endFill=0;" parent="1" source="V_KuhvTImbU-2_eGopWf-11" target="V_KuhvTImbU-2_eGopWf-13" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="793.03" y="-1530.47" />
-              <mxPoint x="693.03" y="-1530.47" />
+              <mxPoint x="795" y="-1530" />
+              <mxPoint x="695" y="-1530" />
             </Array>
           </mxGeometry>
         </mxCell>
         <UserObject label="BLOCCHI FUNZIONALI" lucidchartObjectId="E5El9gGK8zPB" id="V_KuhvTImbU-2_eGopWf-11">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=11;spacing=0;strokeOpacity=100;fillOpacity=100;rounded=0;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;fillColor=#66FF66;strokeColor=#2D7600;fontColor=#000000;container=0;" parent="1" vertex="1">
-            <mxGeometry x="733.03" y="-1570.47" width="120" height="20" as="geometry" />
+            <mxGeometry x="730" y="-1570.47" width="130" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="S8-AEcQRGxQJLUGlmGjb-33" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=9;endArrow=block;endFill=1;strokeColor=#000000;" parent="1" source="V_KuhvTImbU-2_eGopWf-3" target="V_KuhvTImbU-2_eGopWf-11" edge="1">
@@ -87,17 +87,17 @@
         </mxCell>
         <UserObject label="ANALOGICI" lucidchartObjectId="~5ElXes_VRlE" id="V_KuhvTImbU-2_eGopWf-13">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=11;spacing=3.8;strokeColor=#36393d;strokeOpacity=100;fillOpacity=100;rounded=0;absoluteArcSize=1;arcSize=9;fillColor=#ffcccc;strokeWidth=0.8;container=0;" parent="1" vertex="1">
-            <mxGeometry x="653.03" y="-1510.47" width="80" height="20" as="geometry" />
+            <mxGeometry x="650" y="-1510.47" width="90" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="DIGITALI" lucidchartObjectId="h6ElQ-4IRWUj" id="V_KuhvTImbU-2_eGopWf-14">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=11;spacing=3.8;strokeColor=#36393d;strokeOpacity=100;fillOpacity=100;rounded=0;absoluteArcSize=1;arcSize=9;fillColor=#ffcccc;strokeWidth=0.8;container=0;" parent="1" vertex="1">
-            <mxGeometry x="753.03" y="-1510.47" width="80" height="20" as="geometry" />
+            <mxGeometry x="750" y="-1510.47" width="90" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="MIXED-SIGNAL" lucidchartObjectId="l6El-GRD.1cs" id="V_KuhvTImbU-2_eGopWf-15">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=11;spacing=3.8;strokeColor=#36393d;strokeOpacity=100;fillOpacity=100;rounded=0;absoluteArcSize=1;arcSize=9;fillColor=#ffcccc;strokeWidth=0.8;container=0;" parent="1" vertex="1">
-            <mxGeometry x="853.03" y="-1510.47" width="80" height="20" as="geometry" />
+            <mxGeometry x="850" y="-1510.47" width="90" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="S8-AEcQRGxQJLUGlmGjb-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=9;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="1" source="V_KuhvTImbU-2_eGopWf-19" target="V_KuhvTImbU-2_eGopWf-21" edge="1">
