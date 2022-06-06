@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-06T10:56:00.489Z" agent="5.0 (Windows)" etag="m-8ASqRbGF1w0Jg5OToH" version="19.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-06T11:05:40.734Z" agent="5.0 (Windows)" etag="JtUF5X0omOOAx0_yArLg" version="19.0.0" type="github">
   <diagram id="KbQLy3OMnYTvDfTse-Bw" name="Page-1">
-    <mxGraphModel dx="805" dy="2115" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
+    <mxGraphModel dx="1408" dy="2460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -24,6 +24,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HUOxFKLSnK8g2RsHbuWe-12" style="edgeStyle=none;rounded=0;jumpStyle=none;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=9;startFill=1;endArrow=block;endFill=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeWidth=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" parent="1" source="V_KuhvTImbU-2_eGopWf-3" target="HUOxFKLSnK8g2RsHbuWe-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iVsstYm46eXBhKpFJN7g-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V_KuhvTImbU-2_eGopWf-3" target="V_KuhvTImbU-2_eGopWf-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="ELETTRONICI" lucidchartObjectId="GREljfqATe~l" id="V_KuhvTImbU-2_eGopWf-3">
