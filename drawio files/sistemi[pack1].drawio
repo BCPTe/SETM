@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-06T11:13:20.236Z" agent="5.0 (Windows)" etag="LgdE0Qc2t3rNdP-O6b6H" version="19.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-06T11:14:10.714Z" agent="5.0 (Windows)" etag="6jdq9ideXgsdYvTwx_gt" version="19.0.0" type="github">
   <diagram id="KbQLy3OMnYTvDfTse-Bw" name="Page-1">
-    <mxGraphModel dx="327" dy="1841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
+    <mxGraphModel dx="469" dy="1923" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -592,7 +592,7 @@
         <mxCell id="63lxZahk68hWmBlvhvrG-22" value="PRODOTTO&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;moltiplicatore/mixer&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;fontSize=11;strokeColor=#d6b656;fillColor=#fff2cc;" parent="1" vertex="1">
           <mxGeometry x="1590" y="-1050" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="63lxZahk68hWmBlvhvrG-27" value="&lt;p style=&quot;line-height: 0.9;&quot;&gt;&lt;/p&gt;&lt;div&gt;ALTRE&lt;/div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;amplificatore non-lineare &lt;font style=&quot;font-size: 8px;&quot;&gt;(ex. esponenziale)&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;p&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;fontSize=11;strokeColor=#d6b656;fillColor=#fff2cc;" parent="1" vertex="1">
+        <mxCell id="63lxZahk68hWmBlvhvrG-27" value="&lt;p style=&quot;line-height: 0.9;&quot;&gt;&lt;/p&gt;&lt;div&gt;ALTRE&lt;/div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;amplificatore non-lineare &lt;font style=&quot;font-size: 7px;&quot;&gt;(ex. esponenziale)&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;p&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;fontSize=11;strokeColor=#d6b656;fillColor=#fff2cc;" parent="1" vertex="1">
           <mxGeometry x="1710" y="-1050" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="63lxZahk68hWmBlvhvrG-34" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;$$y(t) = x_1(t) + x_2(t)$$&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=8;fontColor=#000000;verticalAlign=middle;align=center;rounded=0;" parent="1" vertex="1">
