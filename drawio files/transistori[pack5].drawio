@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-06T13:12:36.351Z" agent="5.0 (Windows)" etag="-lorZzilvmM0SJSM9p9B" version="19.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-06T13:12:56.822Z" agent="5.0 (Windows)" etag="cFNudvf2R-hQvy3WQWbN" version="19.0.0" type="github">
   <diagram id="slHnJ4RoC0adQhZjdGyo" name="Pagina-1">
-    <mxGraphModel dx="670" dy="384" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
+    <mxGraphModel dx="563" dy="322" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -68,8 +68,8 @@
         <mxCell id="xVxi0OHTIi938xalqr-v-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://raw.githubusercontent.com/BCPTe/SETM/main/images/05/pmos_simbolo.png;" parent="1" vertex="1">
           <mxGeometry x="330" y="261" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="DFONRw64RP-OTkSRBfMr-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://raw.githubusercontent.com/BCPTe/SETM/main/images/05/nmos_simbolo.png;" vertex="1" parent="1">
-          <mxGeometry x="90" y="260" width="100" height="100" as="geometry" />
+        <mxCell id="DFONRw64RP-OTkSRBfMr-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://raw.githubusercontent.com/BCPTe/SETM/main/images/05/nmos_simbolo.png;" parent="1" vertex="1">
+          <mxGeometry x="90" y="261" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
