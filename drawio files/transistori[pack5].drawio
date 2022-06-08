@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-08T10:17:35.279Z" agent="5.0 (Windows)" etag="ZTca3pdZfCcVXddogNLK" version="19.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-08T16:50:23.122Z" agent="5.0 (Windows)" etag="Eehh3SnMk9Z1KPoMZTLt" version="19.0.0" type="github">
   <diagram id="slHnJ4RoC0adQhZjdGyo" name="Pagina-1">
-    <mxGraphModel dx="4023" dy="2303" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
+    <mxGraphModel dx="741" dy="424" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -503,6 +503,45 @@
               <mxPoint x="30" y="1410" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="X2BhTEOmSYzgq8DDmFFD-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;endArrow=none;endFill=0;" edge="1" parent="1" source="X2BhTEOmSYzgq8DDmFFD-136" target="X2BhTEOmSYzgq8DDmFFD-137">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X2BhTEOmSYzgq8DDmFFD-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;endArrow=none;endFill=0;" edge="1" parent="1" source="X2BhTEOmSYzgq8DDmFFD-136" target="X2BhTEOmSYzgq8DDmFFD-138">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X2BhTEOmSYzgq8DDmFFD-136" value="APPLICAZIONI TRANSISTORI MOS" style="whiteSpace=wrap;html=1;fontSize=15;fillColor=#0000CC;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="720" y="1230" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X2BhTEOmSYzgq8DDmFFD-144" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X2BhTEOmSYzgq8DDmFFD-137" target="X2BhTEOmSYzgq8DDmFFD-143">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X2BhTEOmSYzgq8DDmFFD-137" value="ANALOGICHE" style="whiteSpace=wrap;html=1;fillColor=#66FF66;" vertex="1" parent="1">
+          <mxGeometry x="620" y="1330" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="X2BhTEOmSYzgq8DDmFFD-148" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="X2BhTEOmSYzgq8DDmFFD-138" target="X2BhTEOmSYzgq8DDmFFD-149">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X2BhTEOmSYzgq8DDmFFD-138" value="DIGITALI" style="whiteSpace=wrap;html=1;fillColor=#66FF66;" vertex="1" parent="1">
+          <mxGeometry x="880" y="1330" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="X2BhTEOmSYzgq8DDmFFD-146" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X2BhTEOmSYzgq8DDmFFD-143" target="X2BhTEOmSYzgq8DDmFFD-145">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X2BhTEOmSYzgq8DDmFFD-143" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;il transistore MOS si comporta da blocco funzionale anaogico solo in &lt;b&gt;regione di saturazione&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="550" y="1410" width="240" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="X2BhTEOmSYzgq8DDmFFD-145" value="può essere utilizzato come &lt;b&gt;AMPLIFICATORE&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="610" y="1520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X2BhTEOmSYzgq8DDmFFD-147" value="può essere utilizzato come &lt;b&gt;INTERRUTTORE CONTROLLATO DA \(v_G\)&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="860" y="1520" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X2BhTEOmSYzgq8DDmFFD-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="X2BhTEOmSYzgq8DDmFFD-149" target="X2BhTEOmSYzgq8DDmFFD-147">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X2BhTEOmSYzgq8DDmFFD-149" value="&lt;div align=&quot;left&quot;&gt;\(v_G\) può assumere due valori:&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- ALTO (\(v_G=V_{DD}\))&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- BASSO (\(v_G=0\))&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" vertex="1" parent="1">
+          <mxGeometry x="840" y="1410" width="180" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
