@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-09T13:12:42.760Z" agent="5.0 (Windows)" etag="wP9gZQ4T6PG_dZ22mdml" version="19.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-09T13:55:55.578Z" agent="5.0 (Windows)" etag="k91FbEBp-NyIfg0mJyyF" version="19.0.0" type="github">
   <diagram id="slHnJ4RoC0adQhZjdGyo" name="Pagina-1">
     <mxGraphModel dx="971" dy="556" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
@@ -679,11 +679,44 @@
         <mxCell id="X2BhTEOmSYzgq8DDmFFD-196" value="$$v_{GS} = V_{GS} + v_{gs}$$" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="160" y="1120" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="X2BhTEOmSYzgq8DDmFFD-207" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;endArrow=none;endFill=0;" edge="1" parent="1" source="X2BhTEOmSYzgq8DDmFFD-197" target="X2BhTEOmSYzgq8DDmFFD-205">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="X2BhTEOmSYzgq8DDmFFD-197" value="$$i_D = I_D + i_d$$" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="440" y="1060" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="X2BhTEOmSYzgq8DDmFFD-198" value="$$v_{DS} = V_{DS} + v_{ds}$$" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="440" y="1120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="X2BhTEOmSYzgq8DDmFFD-210" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;endArrow=block;endFill=1;" edge="1" parent="1" source="X2BhTEOmSYzgq8DDmFFD-205" target="X2BhTEOmSYzgq8DDmFFD-208">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X2BhTEOmSYzgq8DDmFFD-205" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;in &lt;b&gt;regione di saturazione&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#66FF66;" vertex="1" parent="1">
+          <mxGeometry x="600" y="890" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="X2BhTEOmSYzgq8DDmFFD-208" value="$$i_D = \frac{\beta}{2} (v_{GS}-V_{TH})^2 (1 + \lambda v_{DS})$$" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="820" y="880" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="X2BhTEOmSYzgq8DDmFFD-215" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;endArrow=block;endFill=1;" edge="1" parent="1" source="X2BhTEOmSYzgq8DDmFFD-211" target="X2BhTEOmSYzgq8DDmFFD-214">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X2BhTEOmSYzgq8DDmFFD-211" value="LINEARIZZANDO IN UN PUNTO DI LAVORO \(Q=(V_{GS},V_{DS})\)" style="whiteSpace=wrap;html=1;fontSize=11;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="840" y="980" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="X2BhTEOmSYzgq8DDmFFD-218" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;endArrow=none;endFill=0;" edge="1" parent="1" source="X2BhTEOmSYzgq8DDmFFD-214" target="X2BhTEOmSYzgq8DDmFFD-216">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X2BhTEOmSYzgq8DDmFFD-219" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;endArrow=none;endFill=0;" edge="1" parent="1" source="X2BhTEOmSYzgq8DDmFFD-214" target="X2BhTEOmSYzgq8DDmFFD-217">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X2BhTEOmSYzgq8DDmFFD-214" value="$$i_d = g_m v_{gs} + g_o v_{ds}$$" style="whiteSpace=wrap;html=1;fontSize=11;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="850" y="1040" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="X2BhTEOmSYzgq8DDmFFD-216" value="$$g_m = \frac{2I_D}{V_{GS} - V_{TH}} \cong \sqrt{2 I_D \beta}$$" style="whiteSpace=wrap;html=1;fontSize=11;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="690" y="1120" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="X2BhTEOmSYzgq8DDmFFD-217" value="$$g_o \cong \lambda I_D$$" style="whiteSpace=wrap;html=1;fontSize=11;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="970" y="1120" width="180" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
