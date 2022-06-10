@@ -1,0 +1,151 @@
+<mxfile host="app.diagrams.net" modified="2022-06-10T23:58:15.362Z" agent="5.0 (Windows)" etag="BQXLrYe8oT6ngS80vTne" version="19.0.0" type="github">
+  <diagram id="wxT67-HHqTX9DIjH9o3Z" name="Pagina-1">
+    <mxGraphModel dx="1408" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="j3ikcFKSS2i44kYI19ll-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=23;fontColor=#FFFFFF;endArrow=block;endFill=1;" edge="1" parent="1" source="j3ikcFKSS2i44kYI19ll-1" target="j3ikcFKSS2i44kYI19ll-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="500" y="240" />
+              <mxPoint x="140" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j3ikcFKSS2i44kYI19ll-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=23;fontColor=#FFFFFF;endArrow=block;endFill=1;" edge="1" parent="1" source="j3ikcFKSS2i44kYI19ll-1" target="j3ikcFKSS2i44kYI19ll-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="500" y="240" />
+              <mxPoint x="380" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j3ikcFKSS2i44kYI19ll-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=23;fontColor=#FFFFFF;endArrow=block;endFill=1;" edge="1" parent="1" source="j3ikcFKSS2i44kYI19ll-1" target="j3ikcFKSS2i44kYI19ll-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="500" y="240" />
+              <mxPoint x="620" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j3ikcFKSS2i44kYI19ll-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=23;fontColor=#FFFFFF;endArrow=block;endFill=1;" edge="1" parent="1" target="j3ikcFKSS2i44kYI19ll-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="499.9999999999999" y="202" as="sourcePoint" />
+            <mxPoint x="860" y="252" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="500" y="240" />
+              <mxPoint x="860" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j3ikcFKSS2i44kYI19ll-11" value="di" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontColor=#000000;" vertex="1" connectable="0" parent="j3ikcFKSS2i44kYI19ll-9">
+          <mxGeometry x="-0.9038" y="-1" relative="1" as="geometry">
+            <mxPoint y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j3ikcFKSS2i44kYI19ll-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;fontColor=#000000;endArrow=block;endFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="j3ikcFKSS2i44kYI19ll-1" target="j3ikcFKSS2i44kYI19ll-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j3ikcFKSS2i44kYI19ll-24" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;fontColor=#000000;endArrow=block;endFill=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="j3ikcFKSS2i44kYI19ll-1" target="j3ikcFKSS2i44kYI19ll-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j3ikcFKSS2i44kYI19ll-1" value="&lt;font color=&quot;#FFFFFF&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;AMPLIFICATORI&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=9;fillColor=#0000CC;" vertex="1" parent="1">
+          <mxGeometry x="400" y="150" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j3ikcFKSS2i44kYI19ll-2" value="TENSIONE" style="whiteSpace=wrap;html=1;fontSize=9;fillColor=#66FF66;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="80" y="270" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="j3ikcFKSS2i44kYI19ll-4" value="CORRENTE" style="whiteSpace=wrap;html=1;fontSize=9;fillColor=#66FF66;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="320" y="270" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="j3ikcFKSS2i44kYI19ll-5" value="TRANSCONDUTTANZA" style="whiteSpace=wrap;html=1;fontSize=9;fillColor=#66FF66;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="560" y="270" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="j3ikcFKSS2i44kYI19ll-6" value="TRANSRESISTENZA" style="whiteSpace=wrap;html=1;fontSize=9;fillColor=#66FF66;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="800" y="270" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="j3ikcFKSS2i44kYI19ll-13" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://raw.githubusercontent.com/BCPTe/SETM/main/images/06/amplificatore_simbolo_andamento.png;" vertex="1" parent="1">
+          <mxGeometry x="400" y="99.8" width="200" height="48.84" as="geometry" />
+        </mxCell>
+        <mxCell id="j3ikcFKSS2i44kYI19ll-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;fontColor=#000000;endArrow=block;endFill=1;" edge="1" parent="1" source="j3ikcFKSS2i44kYI19ll-14" target="j3ikcFKSS2i44kYI19ll-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j3ikcFKSS2i44kYI19ll-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;fontColor=#000000;endArrow=block;endFill=1;" edge="1" parent="1" source="j3ikcFKSS2i44kYI19ll-14" target="j3ikcFKSS2i44kYI19ll-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j3ikcFKSS2i44kYI19ll-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;fontColor=#000000;endArrow=block;endFill=1;" edge="1" parent="1" source="j3ikcFKSS2i44kYI19ll-14" target="j3ikcFKSS2i44kYI19ll-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j3ikcFKSS2i44kYI19ll-14" value="&lt;div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;moltiplica il segnale d&#39;ingresso per una costante.&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=12;fontColor=#333333;strokeColor=#666666;fillColor=#f5f5f5;" vertex="1" parent="1">
+          <mxGeometry x="660" y="80" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="j3ikcFKSS2i44kYI19ll-16" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;come &lt;b&gt;primo elemento di una catena di acquisizione&lt;/b&gt; per aumentare la dinamica di un segnale e renderlo più immune al rumore degli stadi successivi → Low Noise Amplifier (LNA)&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=11;fontColor=#000000;strokeColor=#2D7600;fillColor=#66FF66;" vertex="1" parent="1">
+          <mxGeometry x="900" y="10" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j3ikcFKSS2i44kYI19ll-17" value="&lt;div&gt;come &lt;b&gt;sotto-blocco funzionale&lt;/b&gt; in funzioni analogiche più complesse&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=11;fontColor=#000000;strokeColor=#2D7600;fillColor=#66FF66;" vertex="1" parent="1">
+          <mxGeometry x="900" y="85" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j3ikcFKSS2i44kYI19ll-18" value="per &lt;b&gt;fornire &lt;/b&gt;ai segnali &lt;b&gt;la potenza&lt;/b&gt; necessaria per pilotare gli attuatori → Amplificatori di potenza" style="whiteSpace=wrap;html=1;fontSize=11;fontColor=#000000;strokeColor=#2D7600;fillColor=#66FF66;" vertex="1" parent="1">
+          <mxGeometry x="900" y="130" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j3ikcFKSS2i44kYI19ll-22" value="è un doppio bipolo unidirezionale" style="whiteSpace=wrap;html=1;fontSize=10;fontColor=#333333;strokeColor=#666666;fillColor=#f5f5f5;" vertex="1" parent="1">
+          <mxGeometry x="182.11" y="60" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j3ikcFKSS2i44kYI19ll-23" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://raw.githubusercontent.com/BCPTe/SETM/main/images/06/amplificatore_simbolo_circuitale.png;imageBorder=#666666;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="183.16000000000003" y="92" width="117.89" height="66.44" as="geometry" />
+        </mxCell>
+        <mxCell id="j3ikcFKSS2i44kYI19ll-36" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=8;fontColor=#000000;endArrow=block;endFill=1;" edge="1" parent="1" source="j3ikcFKSS2i44kYI19ll-27" target="j3ikcFKSS2i44kYI19ll-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j3ikcFKSS2i44kYI19ll-27" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;$$v_{out}(t) = R_m i_{in}(t)$$&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=10;fontColor=#000000;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="800" y="300" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="j3ikcFKSS2i44kYI19ll-38" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=8;fontColor=#000000;endArrow=block;endFill=1;" edge="1" parent="1" source="j3ikcFKSS2i44kYI19ll-28" target="j3ikcFKSS2i44kYI19ll-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j3ikcFKSS2i44kYI19ll-28" value="$$i_{out}(t) = A_i i_{in}(t)$$" style="text;whiteSpace=wrap;html=1;fontSize=10;fontColor=#000000;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="320" y="300" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="j3ikcFKSS2i44kYI19ll-37" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=8;fontColor=#000000;endArrow=block;endFill=1;" edge="1" parent="1" source="j3ikcFKSS2i44kYI19ll-29" target="j3ikcFKSS2i44kYI19ll-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j3ikcFKSS2i44kYI19ll-29" value="$$i_{out}(t) = g_m v_{in}(t)$$" style="text;whiteSpace=wrap;html=1;fontSize=10;fontColor=#000000;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="560" y="300" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="j3ikcFKSS2i44kYI19ll-41" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=8;fontColor=#000000;endArrow=block;endFill=1;" edge="1" parent="1" source="j3ikcFKSS2i44kYI19ll-30" target="j3ikcFKSS2i44kYI19ll-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j3ikcFKSS2i44kYI19ll-30" value="\(A_v\) → amplificazione di tensione, adimensionato" style="whiteSpace=wrap;html=1;sketch=0;fontSize=8;fontColor=#333333;strokeColor=#666666;fillColor=#f5f5f5;" vertex="1" parent="1">
+          <mxGeometry x="80" y="350" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j3ikcFKSS2i44kYI19ll-42" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontSize=8;fontColor=#000000;endArrow=block;endFill=1;" edge="1" parent="1" source="j3ikcFKSS2i44kYI19ll-31" target="j3ikcFKSS2i44kYI19ll-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j3ikcFKSS2i44kYI19ll-31" value="\(A_i\) → amplificazione di corrente, adimensionato" style="whiteSpace=wrap;html=1;sketch=0;fontSize=8;fontColor=#333333;strokeColor=#666666;fillColor=#f5f5f5;" vertex="1" parent="1">
+          <mxGeometry x="320" y="350" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j3ikcFKSS2i44kYI19ll-43" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;fontColor=#000000;endArrow=block;endFill=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="j3ikcFKSS2i44kYI19ll-32" target="j3ikcFKSS2i44kYI19ll-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j3ikcFKSS2i44kYI19ll-32" value="\([g_m] = \Omega^{-1}\) → transconduttanza" style="whiteSpace=wrap;html=1;sketch=0;fontSize=8;fontColor=#333333;strokeColor=#666666;fillColor=#f5f5f5;" vertex="1" parent="1">
+          <mxGeometry x="560" y="350" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j3ikcFKSS2i44kYI19ll-39" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=8;fontColor=#000000;endArrow=block;endFill=1;" edge="1" parent="1" source="j3ikcFKSS2i44kYI19ll-33" target="j3ikcFKSS2i44kYI19ll-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j3ikcFKSS2i44kYI19ll-33" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;$$v_{out}(t) = A_v v_{in}(t)$$&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=10;fontColor=#000000;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="80" y="300" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="j3ikcFKSS2i44kYI19ll-44" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=8;fontColor=#000000;endArrow=block;endFill=1;" edge="1" parent="1" source="j3ikcFKSS2i44kYI19ll-34" target="j3ikcFKSS2i44kYI19ll-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j3ikcFKSS2i44kYI19ll-34" value="\([R_m] = \Omega\) → transresistenza" style="whiteSpace=wrap;html=1;sketch=0;fontSize=8;fontColor=#333333;strokeColor=#666666;fillColor=#f5f5f5;" vertex="1" parent="1">
+          <mxGeometry x="800" y="350" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j3ikcFKSS2i44kYI19ll-40" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;idealmente corrispondono ai generatori controllati lineari&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;sketch=0;fontSize=8;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="400" y="480" width="160" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
