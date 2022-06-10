@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-10T17:53:14.983Z" agent="5.0 (Windows)" etag="FiV4getjs2XQJ_tVAgta" version="19.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-10T17:53:31.952Z" agent="5.0 (Windows)" etag="gmQBsrBV-Pd-CROUQimI" version="19.0.0" type="github">
   <diagram id="slHnJ4RoC0adQhZjdGyo" name="Pagina-1">
     <mxGraphModel dx="908" dy="520" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
@@ -857,7 +857,7 @@
         <mxCell id="X2BhTEOmSYzgq8DDmFFD-268" value="ad alta frequenza \(|s| \rightarrow \infty\)" style="whiteSpace=wrap;html=1;fontSize=12;fillColor=#0066CC;" vertex="1" parent="1">
           <mxGeometry x="900" y="1600" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="X2BhTEOmSYzgq8DDmFFD-272" value="ad alta frequenza il transistore si comporta sempre meno come un blocco funzionale analogico" style="whiteSpace=wrap;html=1;fontSize=9;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="X2BhTEOmSYzgq8DDmFFD-272" value="il transistore si comporta sempre meno come un blocco funzionale analogico" style="whiteSpace=wrap;html=1;fontSize=9;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="1050" y="1560" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
