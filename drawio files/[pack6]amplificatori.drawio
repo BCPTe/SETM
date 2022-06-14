@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-14T13:54:45.220Z" agent="5.0 (Windows)" etag="YAaoJR24ANx4_PKhxSEn" version="19.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-14T14:07:55.835Z" agent="5.0 (Windows)" etag="pplpJe92zMAJLmfY6uZ9" version="19.0.0" type="github">
   <diagram id="wxT67-HHqTX9DIjH9o3Z" name="Pagina-1">
-    <mxGraphModel dx="943" dy="537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
+    <mxGraphModel dx="1132" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -607,17 +607,11 @@
         <mxCell id="mamlLjxaLS5aXIm2oJee-87" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;DRAIN&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontSize=9;align=center;verticalAlign=middle;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
           <mxGeometry x="1310" y="360" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="mamlLjxaLS5aXIm2oJee-91" value="SEGNAPOSTO" style="whiteSpace=wrap;html=1;fontSize=9;fontColor=#000000;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1280" y="300" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="mamlLjxaLS5aXIm2oJee-92" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;GATE&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=9;align=center;verticalAlign=middle;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
           <mxGeometry x="1630" y="280" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="mamlLjxaLS5aXIm2oJee-93" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;SOURCE&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontSize=9;align=center;verticalAlign=middle;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
           <mxGeometry x="1630" y="360" width="50" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="mamlLjxaLS5aXIm2oJee-94" value="SEGNAPOSTO" style="whiteSpace=wrap;html=1;fontSize=9;fontColor=#000000;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1600" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mamlLjxaLS5aXIm2oJee-97" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;SOURCE&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontSize=9;align=center;verticalAlign=middle;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
           <mxGeometry x="1950" y="280" width="50" height="20" as="geometry" />
@@ -625,8 +619,14 @@
         <mxCell id="mamlLjxaLS5aXIm2oJee-98" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;DRAIN&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontSize=9;align=center;verticalAlign=middle;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
           <mxGeometry x="1950" y="360" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="mamlLjxaLS5aXIm2oJee-99" value="SEGNAPOSTO" style="whiteSpace=wrap;html=1;fontSize=9;fontColor=#000000;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1920" y="300" width="120" height="60" as="geometry" />
+        <mxCell id="mamlLjxaLS5aXIm2oJee-110" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://raw.githubusercontent.com/BCPTe/SETM/main/images/06/common_source.png;imageBorder=#969696;" vertex="1" parent="1">
+          <mxGeometry x="1285" y="305" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mamlLjxaLS5aXIm2oJee-111" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://raw.githubusercontent.com/BCPTe/SETM/main/images/06/common_drain.png;imageBorder=#969696;" vertex="1" parent="1">
+          <mxGeometry x="1605" y="305" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mamlLjxaLS5aXIm2oJee-112" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://raw.githubusercontent.com/BCPTe/SETM/main/images/06/common_gate.png;imageBorder=#969696;" vertex="1" parent="1">
+          <mxGeometry x="1925" y="305" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
