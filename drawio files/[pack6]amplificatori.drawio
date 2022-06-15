@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-14T23:57:47.581Z" agent="5.0 (Windows)" etag="3Rc402SNOT2P9_6eCJSw" version="19.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-15T22:16:41.574Z" agent="5.0 (Windows)" etag="boDthN98eUbaToYqrqec" version="19.0.0" type="github">
   <diagram id="wxT67-HHqTX9DIjH9o3Z" name="Pagina-1">
-    <mxGraphModel dx="939" dy="537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
+    <mxGraphModel dx="1656" dy="922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -760,8 +760,35 @@
         <mxCell id="LDA_1cCVIODJHaGO12al-7" value="&lt;font style=&quot;font-size: 12px;&quot; color=&quot;#FFF&quot;&gt;CONDENSATORI DI ACCOPPIAMENTO&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=9;fillColor=#0000CC;" vertex="1" parent="1">
           <mxGeometry x="2040" y="230" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="LDA_1cCVIODJHaGO12al-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="LDA_1cCVIODJHaGO12al-10" target="LDA_1cCVIODJHaGO12al-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LDA_1cCVIODJHaGO12al-19" value="in DC (polarizzazione)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontColor=#000000;labelBackgroundColor=default;labelBorderColor=#66FFFF;spacing=2;" vertex="1" connectable="0" parent="LDA_1cCVIODJHaGO12al-16">
+          <mxGeometry x="0.6377" relative="1" as="geometry">
+            <mxPoint y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LDA_1cCVIODJHaGO12al-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="LDA_1cCVIODJHaGO12al-10" target="LDA_1cCVIODJHaGO12al-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LDA_1cCVIODJHaGO12al-18" value="diventano" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontColor=#000000;" vertex="1" connectable="0" parent="LDA_1cCVIODJHaGO12al-17">
+          <mxGeometry x="-0.83" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LDA_1cCVIODJHaGO12al-20" value="in banda (segnale)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontColor=#000000;labelBorderColor=#FFCC99;" vertex="1" connectable="0" parent="LDA_1cCVIODJHaGO12al-17">
+          <mxGeometry x="0.6055" y="-2" relative="1" as="geometry">
+            <mxPoint y="8" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="LDA_1cCVIODJHaGO12al-10" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://raw.githubusercontent.com/BCPTe/SETM/main/images/06/condensatori_accoppiamento.png;imageBorder=#969696;" vertex="1" parent="1">
           <mxGeometry x="1930.06" y="282" width="339.87" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="LDA_1cCVIODJHaGO12al-13" value="CIRCUITI APERTI" style="whiteSpace=wrap;html=1;fontSize=12;fontColor=#000000;fillColor=#66FFFF;" vertex="1" parent="1">
+          <mxGeometry x="1930.06" y="480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LDA_1cCVIODJHaGO12al-14" value="CORTO CIRCUITI" style="whiteSpace=wrap;html=1;fontSize=12;fontColor=#000000;gradientColor=none;fillColor=#FFCC99;" vertex="1" parent="1">
+          <mxGeometry x="2149.93" y="480" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
